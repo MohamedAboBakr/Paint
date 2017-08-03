@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jnlp codebase="http://www.h-dslr.com"  href="http://www.h-dslr.com/launch.jnlp" spec="1.0+">
+    <information>
+        <title>Paint</title>
+        <vendor>N0007</vendor>
+        <homepage href="www.google.com"/>
+        <description>Paint</description>
+        <description kind="short">Paint</description>
+    </information>
+    <update check="always"/>
+    <resources>
+        <j2se version="1.8+"/>
+        <jar href="http://www.h-dslr.com/paint.jar" main="true"/>
+    </resources>
+    <application-desc main-class="javaApplication5.AWTCounter">
+    </application-desc>
+</jnlp>
